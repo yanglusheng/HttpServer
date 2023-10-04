@@ -1,7 +1,3 @@
-//
-// Created by yls on 23-9-10.
-//
-
 #ifndef HTTPSERVER_THREADPOOL_H
 #define HTTPSERVER_THREADPOOL_H
 

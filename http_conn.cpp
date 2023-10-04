@@ -1,8 +1,3 @@
-//
-// Created by yls on 23-9-10.
-//
-
-
 #include <sys/uio.h>
 #include "http_conn.h"
 

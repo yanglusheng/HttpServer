@@ -1,7 +1,3 @@
-//
-// Created by yls on 23-9-10.
-//
-
 #ifndef HTTPSERVER_LOCKER_H
 #define HTTPSERVER_LOCKER_H
 

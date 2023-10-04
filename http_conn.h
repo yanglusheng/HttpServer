@@ -1,7 +1,3 @@
-//
-// Created by yls on 23-9-10.
-//
-
 #ifndef HTTPSERVER_HTTP_CONN_H
 #define HTTPSERVER_HTTP_CONN_H
 
